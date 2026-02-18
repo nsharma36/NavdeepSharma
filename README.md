@@ -7,10 +7,12 @@ Currently working on portfolio strategy and automated rebalancing platforms, wit
 
 ### Key Expertise
 - Investment platforms: Funds, ETFs, SMAs
-- Portfolio rebalancing and optimization
+- Product setup and launch
+- Portfolio rebalancing and optimization strategy
 - Product ownership and Agile delivery
 - Data platforms and analytics
 - Generative AI for product and automation
+- Axioma, Gurobi optimizer
 
 ### Featured Projects
 - AI-powered trade assistant
