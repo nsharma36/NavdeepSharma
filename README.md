@@ -20,10 +20,12 @@ Currently working on portfolio strategy and automated rebalancing platforms, wit
 
 ### Certifications
 - PMP – Project Management Professional
-- Advanced certificate in program mangement
+- Advanced certificate in program mangement- Cornell University
 - CSPO, CSM – Scrum Alliance
 - AWS Cloud Practitioner
 - Infosys Certified Applied Generative AI Professional
+- Infosys Certified Generative AI professional- Advanced
+- Infosys Topaz fabric 101
 
 ### Connect
 - LinkedIn: https://www.linkedin.com/in/navdeep-sharma-pmp/
